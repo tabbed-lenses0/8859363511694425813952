@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "525998419908",
+    "firebase_url": "https://kebabers-19.firebaseio.com",
+    "project_id": "kebabers-19",
+    "storage_bucket": "kebabers-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525998419908:android:c75fa146340af4919b7e91",
+        "android_client_info": {
+          "package_name": "com.holybible.kjv.kingjamesbible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525998419908-pta2vi5bcbf08ot5c92a96fbj4ahrg07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Od3oXuNhIT0VMAvoldCFReld2nmUfnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525998419908-pta2vi5bcbf08ot5c92a96fbj4ahrg07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525998419908:android:f640f43ef9f96b779b7e91",
+        "android_client_info": {
+          "package_name": "com.oftvbook.javelle.moneycreators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525998419908-pta2vi5bcbf08ot5c92a96fbj4ahrg07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Od3oXuNhIT0VMAvoldCFReld2nmUfnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525998419908-pta2vi5bcbf08ot5c92a96fbj4ahrg07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525998419908:android:382014315b7342279b7e91",
+        "android_client_info": {
+          "package_name": "com.only.makemoney.infooftv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525998419908-pta2vi5bcbf08ot5c92a96fbj4ahrg07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Od3oXuNhIT0VMAvoldCFReld2nmUfnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525998419908-pta2vi5bcbf08ot5c92a96fbj4ahrg07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
